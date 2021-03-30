@@ -7,6 +7,6 @@
     ]
   },
   "scripts": {
-    "publish": "yarn workspace gatsby-plugin-scroll-to-anchor publish"
+    "release": "yarn workspace gatsby-plugin-scroll-to-anchor publish"
   }
 }
