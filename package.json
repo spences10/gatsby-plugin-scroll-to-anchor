@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "demo",
+      "gatsby-plugin-scroll-to-anchor"
+    ]
+  }
+}
