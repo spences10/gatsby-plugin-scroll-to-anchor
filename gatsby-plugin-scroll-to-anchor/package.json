@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-scroll-to-anchor",
-  "version": "0.0.1",
   "description": "",
+  "version": "0.0.3",
   "main": "index.js",
   "scripts": {
     "publish": "npm publish"
@@ -11,5 +11,13 @@
     "gatsby-plugin"
   ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spences10/gatsby-plugin-scroll-to-anchor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spences10/gatsby-plugin-scroll-to-anchor/issues"
+  },
+  "homepage": "https://github.com/spences10/gatsby-plugin-scroll-to-anchor#readme"
 }
